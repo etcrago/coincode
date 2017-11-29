@@ -1,2 +1,2 @@
 # coincode
-# testing out git before using it
+# omitted second line
